@@ -34,14 +34,6 @@ This project is a simple simulation of the Three-Body Problem, implemented in Py
 - You can modify the initial conditions (positions, velocities, and masses) in the script to observe different behaviors.
 - Adjust the time step (`dt`) for accuracy vs. performance trade-offs.
 
-## Example Output
-```
-Time Step: 1
-Body 1 Position: (x1, y1)
-Body 2 Position: (x2, y2)
-Body 3 Position: (x3, y3)
-...
-```
 
 ## Future Improvements
 - Implement energy conservation checks.
